@@ -8,5 +8,4 @@ The topics covered are the following ones:
 
 2. Lab2: Introduction to [Convolutional Neural Network](http://cs231n.github.io/convolutional-networks/): [convolution operation](https://en.wikipedia.org/wiki/Convolution), backpropagation of the gradient, pooling, multiple layers, drops, non-linear activation functions, training on [CIFAR 10](https://en.wikipedia.org/wiki/CIFAR-10) and [MNIST](http://yann.lecun.com/exdb/mnist/).
 
-3. Final project: coming soon
-
+3. Final project: Studying and experimenting with [CycleGANs](https://junyanz.github.io/CycleGAN/). It's about style transfer and high level properties transfer from a set of images to another one. Example: convert any image of a landscape taken in the summer to its winter counterpart. In this study, I investigate a pytorch implementation of the cycleGAN: I reproduced some of the results of the paper, applied the CycleGAN on two new datasets for real face to cartoon and sad to happy image translation. I also played with the loss functions to highlight the importance of each loss member and its effect.
